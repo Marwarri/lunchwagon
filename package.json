@@ -1,15 +1,18 @@
 {
-  "name": "directory",
+  "name": "lunchwagon",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "keystone": "~0.2.25",
+    "keystone": "~0.3.0",
     "async": "~0.9.0",
-    "underscore": "~1.6.0",
-    "moment": "~2.7.0",
-    "express3-handlebars": "~0.5.0",
-    "handlebars": "^2.0.0-alpha.2",
-    "dotenv": "0.4.0"
+    "underscore": "~1.7.0",
+    "moment": "~2.8.1",
+    "cloudinary": "^1.0.12",
+    "express-handlebars": "~1.1.0",
+    "handlebars": "~2.0.0",
+    "dotenv": "~0.4.0",
+    "angular": "*",
+    "bootstrap": "*"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
@@ -18,6 +21,7 @@
     "grunt-contrib-jshint": "~0.7.1",
     "jshint-stylish": "~0.1.3",
     "load-grunt-tasks": "~0.4.0",
+    "load-grunt-configs": "^0.4.1",
     "grunt-node-inspector": "~0.1.5",
     "time-grunt": "~0.3.1",
     "grunt-concurrent": "~0.5.0",
