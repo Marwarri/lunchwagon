@@ -20,8 +20,9 @@ npm-debug.log
 
 node_modules/
 bower_components/
-data/
 grunt/
+data/
+
 
 *.iml
 *.ipr
