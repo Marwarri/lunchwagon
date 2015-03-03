@@ -22,7 +22,9 @@ node_modules/
 bower_components/
 grunt/
 data/
-
+public/js/lib
+public/js/build
+public/build
 
 *.iml
 *.ipr
